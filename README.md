@@ -1,5 +1,40 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A real-world client website built with a modern frontend, backend services, and MongoDB Atlas, designed for performance, usability, and scalability.<br>👯 I’m looking to collaborate on<br>Hackathons, open-source projects, AI + web development ideas, and startup-style experiments where we build fast and learn faster.<br><br>🤝 I’m looking for help with<br>System design, scaling projects without paid cloud services, and improving backend architecture using free or self-hosted tools.<br><br>🌱 I’m currently learning<br>Advanced Python for backend development and automation, along with MongoDB Atlas, API design, and full-stack optimization.<br><br>💬 Ask me about<br>Hackathons, building projects end-to-end, deploying websites for free, GitHub workflows, or turning ideas into working products.<br><br>⚡ Fun fact<br>I enjoy building more features than required—just to test limits and learn something new every time 😄⚙️
+💫 About Me
+
+🚀 Who I am
+I’m Swaraj — a builder at heart, balancing life as a student while also leading and shipping real projects. I’m deeply interested in turning ideas into working systems, not just demos.
+
+🛠️ What I’m working on right now
+I’m actively building real-world client and product-focused projects with a strong emphasis on:
+
+Modern full-stack web development
+
+Backend services with Python
+
+MongoDB Atlas for scalable data handling
+Alongside this, we’re also working on IoT-based projects, where software meets hardware — connecting sensors, devices, and dashboards to solve real problems.
+
+🤝 What I want to collaborate on
+
+Hackathons & fast-paced build challenges
+
+Open-source projects with real impact
+
+IoT + Web + AI experiments
+
+Startup-style projects where we iterate fast, break things, and learn smarter
+
+🧠 What I’m currently learning & improving
+
+Advanced Python for backend systems & automation
+
+API design, system architecture, and performance optimization
+
+IoT integration (devices → backend → dashboard)
+
+Designing systems that scale without relying on paid cloud services
+
+⚡ Fun fact
+I almost always build more features than required — not for scope creep, but to explore limits, stress-test ideas, and learn something new every single time 😄⚙️
 
 
 ## 🌐 Socials:
