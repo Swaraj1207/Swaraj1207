@@ -1,40 +1,98 @@
-💫 About Me
+# 💫 About Me
 
-🚀 Who I am
-I’m Swaraj — a builder at heart, balancing life as a student while also leading and shipping real projects. I’m deeply interested in turning ideas into working systems, not just demos.
+## 🚀 Who I Am
 
-🛠️ What I’m working on right now
-I’m actively building real-world client and product-focused projects with a strong emphasis on:
+I’m Swaraj — an AI/ML student and a builder at heart, focused on transforming ideas into functional, real-world systems. I actively work on projects that go beyond concepts, emphasizing practical implementation, usability, and impact.
 
-Modern full-stack web development
+---
 
-Backend services with Python
+## 🛠️ What I’m Working On
 
-MongoDB Atlas for scalable data handling
-Alongside this, we’re also working on IoT-based projects, where software meets hardware — connecting sensors, devices, and dashboards to solve real problems.
+I’m currently building real-world and client-focused projects with a strong emphasis on:
 
-🤝 What I want to collaborate on
+* Full-stack web development
+* Backend systems using Python
+* Scalable data handling with MongoDB Atlas
+* UI/UX design for intuitive user experiences
 
-Hackathons & fast-paced build challenges
+Alongside this, I explore IoT-based systems where software integrates with hardware to create intelligent, connected solutions.
 
-Open-source projects with real impact
+---
 
-IoT + Web + AI experiments
+## 🚀 Featured Projects
 
-Startup-style projects where we iterate fast, break things, and learn smarter
+### 🧠 ERO — Neural Network From Scratch
 
-🧠 What I’m currently learning & improving
+Core Python implementation of a neural network to understand internal AI mechanics.
+🔗 https://github.com/Swaraj1207/ERO
 
-Advanced Python for backend systems & automation
+* Implemented forward propagation, backpropagation, and gradient descent
+* Built complete neural network architecture without external ML libraries
 
-API design, system architecture, and performance optimization
+---
 
-IoT integration (devices → backend → dashboard)
+### 🌐 Varad Khushali Vilas — Web Platform
 
-Designing systems that scale without relying on paid cloud services
+A modern, responsive web-based project focused on UI/UX and performance.
+🔗 https://github.com/Swaraj1207/Varad_Khushali_Vilas
 
-⚡ Fun fact
-I almost always build more features than required — not for scope creep, but to explore limits, stress-test ideas, and learn something new every single time 😄⚙️
+* Designed clean and user-friendly interface
+* Developed responsive frontend with optimized performance
+
+---
+
+### 🎤 IntrnPath — Voice Assistant Contribution
+
+AI-powered internship roadmap platform with personalized learning paths.
+🔗 (Add repo link if available)
+
+* Contributed by building voice assistant functionality
+* Enabled hands-free interaction and improved accessibility
+
+---
+
+### 🤖 CodeBuddy — AI Chatbot
+
+AI chatbot system developed for automated user support.
+
+* Built conversational logic and integrated AI features
+* Designed frontend UI for seamless interaction
+
+---
+
+### 🧠 NeuroSignal-Driven IoT System
+
+Brain-controlled assistive mobility system using EEG signals.
+
+* Translates brain signals into motion commands
+* Integrates AI, IoT, and hardware systems for real-world impact
+
+---
+
+## 🤝 Collaboration Interests
+
+I’m open to collaborating on:
+
+* Hackathons and rapid development challenges
+* Open-source projects with real-world impact
+* AI + IoT + Web integrations
+* Startup-style projects focused on fast iteration and innovation
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced Python for backend systems and automation
+* API design and scalable system architecture
+* IoT integration (devices → backend → dashboards)
+* Performance optimization and efficient system design
+
+---
+
+## ⚡ Fun Fact
+
+I often build beyond the required scope — not for complexity, but to explore limits, stress-test ideas, and continuously learn something new 🚀
+
 
 
 ## 🌐 Socials:
