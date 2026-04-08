@@ -44,19 +44,10 @@ A modern, responsive web-based project focused on UI/UX and performance.
 ### 🎤 IntrnPath — Voice Assistant Contribution
 
 AI-powered internship roadmap platform with personalized learning paths.
-🔗 (Add repo link if available)
+🔗 https://github.com/atharv5167/IntrnPath.git
 
 * Contributed by building voice assistant functionality
 * Enabled hands-free interaction and improved accessibility
-
----
-
-### 🤖 CodeBuddy — AI Chatbot
-
-AI chatbot system developed for automated user support.
-
-* Built conversational logic and integrated AI features
-* Designed frontend UI for seamless interaction
 
 ---
 
@@ -66,7 +57,7 @@ Brain-controlled assistive mobility system using EEG signals.
 
 * Translates brain signals into motion commands
 * Integrates AI, IoT, and hardware systems for real-world impact
-
+🔗 https://github.com/Shreya1046/NeuroBot.W.git
 ---
 
 ## 🤝 Collaboration Interests
